@@ -27,10 +27,10 @@ Gem::Specification.new do |s|
     ]
   s.test_files = [
     "test/fixtures",
-    "test/fixtures/company.rb",
-    "test/fixtures/companies.yml",
-    "test/fixtures/service.rb",
-    "test/fixtures/services.yml",
+    "test/fixtures/book.rb",
+    "test/fixtures/books.yml",
+    "test/fixtures/chapter.rb",
+    "test/fixtures/chapters.yml",
     "test/fixtures/generic_list_items.yml",
     "test/abstract_unit.rb",
     "test/has_generic_list_test.rb",
