@@ -1,0 +1,51 @@
+
+
+acme_country_uk:
+  item_type: country
+  item_value: UK
+  klazz: acme (Book)
+  created_at: 2006-08-01
+
+acme_language_english:
+  item_type: language
+  item_value: English
+  klazz: acme (Book)
+  created_at: 2006-08-02
+
+acme_country_france:
+  item_type: country
+  item_value: France
+  klazz: acme (Book)
+  created_at: 2006-08-03
+
+acme_language_french:
+  item_type: language
+  item_value: French
+  klazz: acme (Book)
+  created_at: 2006-08-04
+
+
+wigwam_country_uk:
+  item_type: country
+  item_value: UK
+  klazz: wigwam (Book)
+  created_at: 2006-08-05
+
+wigwam_language_english:
+  item_type: language
+  item_value: English
+  klazz: wigwam (Book)
+  created_at: 2006-08-06
+
+wigwam_country_spain:
+  item_type: country
+  item_value: Spain
+  klazz: wigwam (Book)
+  created_at: 2006-08-07
+
+wigwam_language_spanish:
+  item_type: language
+  item_value: Spanish
+  klazz: wigwam (Book)
+  created_at: 2006-08-08
+

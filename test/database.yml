@@ -1,0 +1,10 @@
+mysql:
+  :adapter: mysql
+  :host: localhost
+  :username: railstester
+  :password: test
+  :database: rails_test
+
+sqlite3:
+  :adapter: sqlite3
+  :database: ':memory:'

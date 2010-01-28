@@ -1,0 +1,21 @@
+
+
+acme_chapter_pots:
+  name: pots
+  book: acme (Book)
+  created_at: 2006-08-01
+
+acme_chapter_pans:
+  name: pans
+  book: acme (Book)
+  created_at: 2006-08-02
+
+wigwam_chapter_kettle:
+  name: kettle
+  book: wigwam (Book)
+  created_at: 2006-08-03
+
+wigwam_chapter_spoon:
+  name: spoon
+  book: wigwam (Book)
+  created_at: 2006-08-04
