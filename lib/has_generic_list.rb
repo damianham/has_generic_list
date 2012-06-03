@@ -1,3 +1,6 @@
+require 'generic_data_list'
+require 'generic_list_item'
+
 module ActiveRecord #:nodoc:
   module Has #:nodoc:
     module GenericList #:nodoc:

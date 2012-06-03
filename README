@@ -1,6 +1,6 @@
 = has_generic_list
 
-has_generic_list is a plugin by Damian Hamill of WebDevWorx http://www.webdevworx.com.  You can use it to
+has_generic_list is a plugin to
 store lists of data associated with a model without having to create lots of tables, one for each type of data.
 
 If you find this plugin useful, please consider a donation to show your support!
