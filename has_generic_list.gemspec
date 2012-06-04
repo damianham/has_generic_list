@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "has_generic_list"
-  s.version  = "1.1"
-  s.date     = "2010-01-19"
+  s.version  = "1.2"
+  s.date     = "2012-06-04"
   s.summary  = "Rails plugin to store lists of generic data."
   s.email    = "damianham@gmail.com"
   s.homepage = "http://github.com/damianham/has_generic_list"
