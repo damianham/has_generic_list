@@ -13,8 +13,12 @@ You can also consider hiring me to develop your web application, please drop me 
 
 ## Installation
 
-  ruby script/plugin install git://github.com/damianham/has_generic_list.git
+>  	ruby script/plugin install git://github.com/damianham/has_generic_list.git
 
+or
+
+>	gem 'has_generic_list', :git => 'git://github.com/damianham/has_generic_list.git'
+  
 ### Prepare database
 
 Generate and apply the migration:
