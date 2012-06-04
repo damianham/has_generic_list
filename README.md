@@ -15,7 +15,7 @@ You can also consider hiring me to develop your web application, please drop me 
 
 >  	ruby script/plugin install git://github.com/damianham/has_generic_list.git
 
-or
+or add to the Gemfile with
 
 >	gem 'has_generic_list', :git => 'git://github.com/damianham/has_generic_list.git'
   
