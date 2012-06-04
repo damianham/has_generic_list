@@ -35,7 +35,7 @@ i.e lists of any kind of data.  You could also serialize an object and store tha
 the serialized data length is less than the item_value column length in the generic_list_items table.  If you want to store
 larger data then change the item_value column to a text column.
 
-The first step is to add has_generic_list to the Company class:
+The first step is to add _has_generic_list_ to the Company class:
 
   	class Company < ActiveRecord::Base
     	  # the type names MUST be singular, if typename == typename.pluralize then an exception is raised
