@@ -105,7 +105,9 @@ class GenericDataList < Array
   def to_s
     
     map do |item|
-      item.item_value.include?(delimiter) ? "\"#{item.item_value}\"" : item.item_value
+      if item.respond_to?('item_value')
+        item.item_value.include?(delimiter) ? "\"#{item.item_value}\"" : item.item_value
+      end
     end.join(delimiter.ends_with?(" ") ? delimiter : "#{delimiter} ")
   end
   
